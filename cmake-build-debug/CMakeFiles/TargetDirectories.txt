@@ -1,0 +1,5 @@
+C:/CProjects/01-lab-00-introduce-labs-Arclay/cmake-build-debug/CMakeFiles/template.dir
+C:/CProjects/01-lab-00-introduce-labs-Arclay/cmake-build-debug/CMakeFiles/tests.dir
+C:/CProjects/01-lab-00-introduce-labs-Arclay/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/CProjects/01-lab-00-introduce-labs-Arclay/cmake-build-debug/CMakeFiles/test.dir
+C:/CProjects/01-lab-00-introduce-labs-Arclay/cmake-build-debug/CMakeFiles/edit_cache.dir

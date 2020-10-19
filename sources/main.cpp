@@ -1,9 +1,9 @@
-// Copyright 2018 Your Name <your_email>
-
-#include <header.hpp>
+//
+// Created by User on 19.10.2020.
+//
 #include <iostream>
 using namespace std;
-int main() {
+int main () {
   cout << "Hello World!";
   return 0;
 }
